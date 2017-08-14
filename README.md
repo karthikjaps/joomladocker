@@ -1,4 +1,11 @@
-This is a [Docker](http://docker.io) project for building a clean Joomla 3 machine
+sd
+sd
+sd
+
+
+
+sd
+sdThis is a [Docker](http://docker.io) project for building a clean Joomla 3 machine
 for development.
 
 Actually there will be 3 machines build:
